@@ -15,7 +15,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 
 #define NAME_SIZE 25
 #define NUM_SCORES 3
@@ -33,7 +32,6 @@ void acquire_student_data(Student* students, int numStudents);
  * 
  */
 int main(int argc, char** argv) {
-    srand(time(NULL));
 
     //Ask the user how many student structures to create.
     int numStudents, i;
