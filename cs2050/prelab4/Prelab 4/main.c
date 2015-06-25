@@ -21,7 +21,6 @@ typedef struct person {
 } Person;
 
 
-Person* allocate_space(size_t structSize, int numPeople);
 void fill_array(Person* people, int numPeople);
 void bubble_sort(Person* people, int numPeople);
 void print_array(Person* people, int numPeople);
