@@ -16,8 +16,8 @@
  * Here the size is 17 to account for the case 
  *  where all ships are placed end to end.
  ***/
-#define BOARD_SIZE_ROW 10
-#define BOARD_SIZE_COLUMN 10
+#define BOARD_SIZE_ROW 17
+#define BOARD_SIZE_COLUMN 17
 
 //Declare some constant expressions to use in our program
 
