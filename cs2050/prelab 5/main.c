@@ -76,9 +76,9 @@ Node* add_node(Node* listHead, Node* newNode){
     
     //We have the check for the case where the list is empty first. 
     if (currentNode == NULL){
-        listHead = newNode;
-        return listHead;
+        return newNode;
     }
+    
     //We want to go to the end of the list, so we use a loop to get there.
     while(currentNode->nextPtr != NULL){
         currentNode = currentNode->nextPtr;
