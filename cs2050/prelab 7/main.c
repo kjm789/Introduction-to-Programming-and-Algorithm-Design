@@ -26,15 +26,6 @@ void buildTree(Node** tree, int num);
 void freeTree(Node* tree);
 void printTree(Node* tree);
 
-//Helper functions used while writing the solution. Provided to see the testing process.
-//These would be removed before submitting as a finished solution.
-
-//This function allows us to see that we have created our node successfully.
-
-void printNode(Node* temp) {
-    printf("data: %d, left: %p, right %p\n", temp->data, temp->left, temp->right);
-}
-
 /*
  * 
  */
@@ -57,8 +48,6 @@ int main(int argc, char** argv) {
     printTree(tree);
     
     freeTree(tree);
-    
-    //printNode(temp);
 
 
     return (EXIT_SUCCESS);
