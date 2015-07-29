@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
     freeWordStack(wordStack);
 
 
-    //freeTree(treeHead);
+    freeTree(treeHead);
     return (EXIT_SUCCESS);
 }
 
