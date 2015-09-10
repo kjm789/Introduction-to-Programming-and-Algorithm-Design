@@ -1,4 +1,6 @@
-#This repo is currently in development and is thus rather empty. Hopefully soon I'll have the chance to add a lot more. However, I do tend to carry a heavy course/work load, and this is something I do in my spare time. Please be patient.
+#This repo is currently in development and is thus rather empty. Hopefully soon I'll have the chance to add a lot more.
+
+##However, I do tend to carry a heavy course/work load, and this is something I do in my spare time. Please be patient.
 
 ## Notice to possible contributors
   If any of my colleagues or associates have some code that they think would be at home in a repository like this one please, reach out to me! I would love to include the work of others with attribution so that this repository can have as many good programming samples as possible. If you want to contribute fork the repo and send me a pull request.
