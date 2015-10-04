@@ -1,1 +1,1 @@
-This folder contains small C programs that highlight the impact of differentalgorithms. Generally, each program will have a few different implementations of the same "task" e.g. a program called sort.c might have implementations bubblesort, quicksort, mergesort, and bogosort. 
+This folder contains small C programs that highlight the impact of different algorithms. Generally, each program will have a few different implementations of the same "task" e.g. a program called sort.c might have implementations bubblesort, quicksort, mergesort, and bogosort. 
