@@ -5,7 +5,7 @@
  *
  * A small program to show an example of calling functions and using their return values.
  *
- * Last Modified: Sun Oct 04, 2015  04:54PM
+ * Last Modified: Sun Oct 04, 2015  04:57PM
  * Comments: The below code is not optimized for anything special e.g. performace. 
  * It is written this way to emphasize the use of functions. 
  *
@@ -69,7 +69,6 @@ void print_menu(void){
 }
 
 int check_input(int choice){
-    //If the users choice is between 1 and 4 INCLUSIVE, then reurn 1 saying it is a good choice.
     if (choice == 1 || choice == 2) return 1;
     else return 0;
 }
