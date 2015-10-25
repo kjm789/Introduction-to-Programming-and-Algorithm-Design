@@ -103,7 +103,7 @@ void print_menu(void){
 }
 
 int check_input(int choice){
-    //If the users choice is between 1 and 4 INCLUSIVE, then reurn 1 saying it is a good choice.
+    //If the users choice is between 1 and 4 INCLUSIVE, then return 1 saying it is a good choice.
     if (choice > 0 && choice < 5) return 1;
     else return 0;
 }
